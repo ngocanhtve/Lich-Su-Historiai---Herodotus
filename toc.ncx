@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="vi">
+  <head>
+    <meta content="uuid:6d6e9bed-3732-4f75-9f5c-583f592cee6c" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Lịch Sử</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>LỜI DỊCH GIẢ</text>
+      </navLabel>
+      <content src="texts/01.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>QUYỂN 1: KLEIO</text>
+      </navLabel>
+      <content src="texts/02.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>QUYỂN 2: EUTERPE</text>
+      </navLabel>
+      <content src="texts/03.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>QUYỂN 3: THALEIA</text>
+      </navLabel>
+      <content src="texts/04.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>QUYỂN 4: MELPOMENE</text>
+      </navLabel>
+      <content src="texts/05.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>QUYỂN 5: TERPSIKHORE</text>
+      </navLabel>
+      <content src="texts/06.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>QUYỂN 6: ERATO</text>
+      </navLabel>
+      <content src="texts/07.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>QUYỂN 7: POLYMNIA</text>
+      </navLabel>
+      <content src="texts/08.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>QUYỂN 8: OURANIA</text>
+      </navLabel>
+      <content src="texts/09.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>QUYỂN 9: KALLIOPE</text>
+      </navLabel>
+      <content src="texts/10.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>NIÊN BIỂU ƯỚC TÍNH CÁC BIẾN CỐ TRONG TÁC PHẨM LỊCH SỬ</text>
+      </navLabel>
+      <content src="texts/11.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>DANH MỤC BIẾN CỐ THEO TRÌNH TỰ XUẤT HIỆN TRONG TÁC PHẨM LỊCH SỬ</text>
+      </navLabel>
+      <content src="texts/12.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
